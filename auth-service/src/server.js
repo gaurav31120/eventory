@@ -1,0 +1,1 @@
+console.log('Welcome to eventory project -- auth service')
